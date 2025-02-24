@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/592e5412-14ad-493f-bf88-f4fed8e96f67)  1️⃣ Find Top 5 Best-Selling Product Categories
+1️⃣ Find Top 5 Best-Selling Product Categories
+
+
   🔹 Conclusion
 --->1. The top 5 product categories with the highest number of orders will be displayed.
 
@@ -8,6 +10,8 @@ Businesses should focus on stocking more of these items, offering discounts, and
 
 
 2️⃣ Identify High Revenue-Generating States
+
+
 📌 Conclusion
 1️⃣ Uttar Pradesh (29.0%) contributes the highest sales, indicating it is the most profitable state for the business.
 2️⃣ Maharashtra (21.5%) is the second-largest contributor, suggesting strong customer engagement.
@@ -20,6 +24,8 @@ Businesses should focus on stocking more of these items, offering discounts, and
 ✔ Analyze customer preferences in Karnataka to maintain and improve sales.
 
 3️⃣ Find Customer Demographics Spending the Most
+
+
 📌 Conclusion
 1️⃣ Females aged 26-35 spend the most, making them the most valuable customer segment.
 2️⃣ Females in the 36-45 and 18-25 age groups also contribute significantly to total spending.
@@ -33,6 +39,8 @@ Businesses should focus on stocking more of these items, offering discounts, and
 ✔ Explore products and promotions tailored for older demographics to increase their spending potential.
 
 4️⃣ Most Profitable Occupations
+
+
 📌 Conclusion from the "Most Profitable Occupations" Chart
 IT Sector is the Highest Contributor – Customers from the IT sector have the highest total spending, making it the most profitable occupation.
 Healthcare & Aviation Follow Closely – These sectors also contribute significantly to overall revenue, indicating strong purchasing power.
@@ -75,6 +83,8 @@ This suggests that businesses focusing on Food and Apparel may see higher return
 5. Need for Customer Retention – Businesses may focus on retaining high-value customers like Vishakha while boosting engagement for those with lower sales.
 
 8️⃣ Customer Retention & Repeat Orders
+
+
 Conclusion: Top 10 Customers with Repeat Purchases
  1️⃣ Vishakha is the most loyal customer, making the highest        number of repeat purchases.
  2️⃣ Shreyshi and Sudevi follow closely, indicating strong engagement with the business.
