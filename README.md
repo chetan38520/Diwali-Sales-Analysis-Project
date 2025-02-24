@@ -13,6 +13,7 @@ Businesses should focus on stocking more of these items, offering discounts, and
 
 
 📌 Conclusion
+
 1️⃣ Uttar Pradesh (29.0%) contributes the highest sales, indicating it is the most profitable state for the business.
 
 2️⃣ Maharashtra (21.5%) is the second-largest contributor, suggesting strong customer engagement.
